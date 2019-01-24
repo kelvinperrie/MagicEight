@@ -3,7 +3,7 @@ a magic 8 ball to predict the future, made using jquery. The images are all a bi
 
 # example usage
 
-You need the images, scripts and styles folders. Include the scripts/jquery-magic8.js (and you need jquery and jquery ui with draggable components in it) and the scripts/magic8.css on your page, then call $('Your big div element').eightBallMe();
+You need the images, scripts and styles folders. Include the scripts/jquery-magic8.js (and you need jquery and jquery ui with draggable components in it) and the scripts/magic8.css on your page, then call $('Element to put the ball in').eightBallMe();
 
 ```
     <link rel="stylesheet" href="styles/magic8.css">
