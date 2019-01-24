@@ -6,7 +6,7 @@
         var id = "my-eightball";
 
         // add the required elements
-        $(this).append('<div class="eightball-moveable-area" id="' + id + '"><!--content = everything in the window of the ball--><div id="eightball-content"><!-- the animation while the ball is \'thinking\' --><div id="eightball-blur-container"></div><!-- the message to show the user --><div id="eightball-response"><div id="eightball-blue-thing-container"><img src="images/BlueBacking.png" alt="blue background" /></div><div id="eightball-message"></div></div></div><img src="images/ballbase.png" alt="ball base" /></div >');
+        $(this).append('<div class="eightball-moveable-area" id="' + id + '"><!--content = everything in the window of the ball--><div id="eightball-content"><!-- the animation while the ball is \'thinking\' --><div id="eightball-blur-container"></div><!-- the message to show the user --><div id="eightball-response"><div id="eightball-blue-thing-container"><img src="images/BlueBacking.png" alt="blue background" /></div><div id="eightball-message"></div></div></div><img src="images/BallBase.png" alt="ball base" /></div >');
 
         function getRandomInt(min, max) {
             min = Math.ceil(min);
