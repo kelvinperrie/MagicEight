@@ -2,7 +2,7 @@
 a magic 8 ball to predict the future, made using jquery. The images are all a bit sloppy and nothing is quite lined up but who could have predicted that?
 
 demo:
-http://htmlpreview.github.io/?https://github.com/kelvinperrie/MagicEight/blob/master/demo.html
+https://magiceight.netlify.app/
 
 # example usage
 
